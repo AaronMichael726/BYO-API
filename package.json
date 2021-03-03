@@ -1,0 +1,27 @@
+{
+  "name": "BYO-API",
+  "version": "1.0.0",
+  "description": "Building API for GA React Section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMichael726/BYO-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMichael726/BYO-API/issues"
+  },
+  "homepage": "https://github.com/AaronMichael726/BYO-API#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18",
+    "nodemon": "^2.0.7"
+  }
+}
